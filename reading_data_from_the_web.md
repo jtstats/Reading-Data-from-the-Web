@@ -196,7 +196,7 @@ The information isn’t stored in a handy table, so we’re going to isolate
 the CSS selector for elements we care about. A bit of clicking around
 gets me something like below.
 
-### Insert picture
+![](./picture/read_from_web_css_selctor.png)
 
 For each element, I’ll use the CSS selector in html\_nodes() to extract
 the relevant HTML code, and convert it to text. Then I can combine these
